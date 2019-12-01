@@ -8,7 +8,7 @@ It might be small bricks, but this is big data!
 In this project, you will get to explore the Rebrickable database.
 
 
-##TECHNOLOGY
+## TECHNOLOGY
 Python
 
 ## TOPICS
